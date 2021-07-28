@@ -1,3 +1,11 @@
+# Hello!
+
+1. this is an initialization of a react app in typescript, with yarn, prettier, eslint, react-test-renderer library, and a simple snapshot test.
+2. simply clone and start building on it without potentially having to deal with intialization issues.
+3. it's more for myself but would be more than happy if this repo is of use to you too^^.
+4. bonus: use jestrunner plugin (vsc) to run the test.
+5. creds to: https://devsday.ru/blog/details/5418, https://dev.to/robertcoopercode/using-eslint-and-prettier-in-a-typescript-project-53jb for the explanations and guides.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

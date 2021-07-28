@@ -1,0 +1,5 @@
+{
+    "jestrunner.jestCommand": "yarn react-scripts test",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+}
